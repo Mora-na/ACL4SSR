@@ -19,6 +19,9 @@ DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,translate.googleapis.com
+DOMAIN-SUFFIX,translate.google.com
+DOMAIN-SUFFIX,translate-pa.googleapis.com
 IP-CIDR,17.0.0.0/8,no-resolve
 IP-CIDR,17.249.0.0/16,no-resolve
 IP-CIDR,17.252.0.0/16,no-resolve
