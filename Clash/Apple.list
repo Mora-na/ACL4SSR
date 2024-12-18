@@ -40,3 +40,8 @@ IP-CIDR,2403:300:a51::/48,no-resolve
 IP-CIDR,216.239.32.40,no-resolve
 IP-CIDR,216.239.32.40,no-resolve
 IP-CIDR,216.239.32.40,no-resolve
+# google翻译
+IP-CIDR,120.25.234.79,no-resolve
+IP-CIDR,120.25.234.79,no-resolve
+IP-CIDR,120.25.234.79,no-resolve
+IP-CIDR,120.25.234.79,no-resolve
