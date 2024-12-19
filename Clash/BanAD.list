@@ -1,5 +1,13 @@
 # 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
 
+DOMAIN-SUFFIX,ocsp.apple.com
+DOMAIN-SUFFIX,ocsp2.apple.com
+DOMAIN-SUFFIX,valid.apple.com
+DOMAIN-SUFFIX,crl.apple.com
+DOMAIN-SUFFIX,certs.apple.com
+DOMAIN-SUFFIX,appattest.apple.com
+DOMAIN-SUFFIX,vpp.itunes.apple.com
+
 # 广告关键词
 DOMAIN-KEYWORD,admarvel
 DOMAIN-KEYWORD,admaster
